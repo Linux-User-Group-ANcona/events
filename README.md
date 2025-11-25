@@ -9,13 +9,13 @@ Every event must be placed inside a dedicated folder contained within one of the
 
 **Naming Convention:** folders must follow the format `YYYY-MM-DD_EventName` (e.g., `2025-11-20_AdvancedPython`).
 
-### Past Events
+### [Past Events](PAST_EVENTS)
 This folder serves as the official historical archive of all LUGAN events, workshops, and meetups that have been successfully concluded.
 
-### In Progress Events
+### [In Progress Events](IN_PROGRESS_EVENTS)
 For better user accessibility, all temporally relevant events (currently running, imminent, or just concluded) are temporarily placed in this folder. This arrangement simplifies the process for visitors tracking our most current activities.
 
-### Future Events
+### [Future Events](FUTURE_EVENTS)
 Events that are currently in the planning stage are still added to the repository using the required YYYY-MM-DD_EventName nomenclature. However, the date indicated is purely provisional and serves as a rough scheduling guide; it is therefore explicitly subject to change.
 
 ---
