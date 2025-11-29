@@ -1,0 +1,13 @@
+title: LUGAN | Events
+description: All information regarding our meetups, workshops, and gatherings, whether they are past, in-progress, or future.
+
+plugins:
+- jekyll-remote-theme
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+defaults:
+    - scope:
+        path: "" # apply to all files
+      values:
+        layout: "default"
