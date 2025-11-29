@@ -1,6 +1,8 @@
 title: LUGAN | Events
 description: All information regarding our meetups, workshops, and gatherings, whether they are past, in-progress, or future.
 
+google_analytics: G-BFPVL5KTRN
+
 plugins:
 - jekyll-remote-theme
 
